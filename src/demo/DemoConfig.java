@@ -10,6 +10,8 @@ public class DemoConfig extends JFinalConfig {
 		me.add("/hello", HelloController.class);
 	}
 	public void configPlugin(Plugins me) {}
+	
 	public void configInterceptor(Interceptors me) {}
+	
 	public void configHandler(Handlers me) {}
 }
