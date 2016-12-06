@@ -1,4 +1,5 @@
 package demo;
+
 import com.jfinal.config.*;
 
 public class DemoConfig extends JFinalConfig {
